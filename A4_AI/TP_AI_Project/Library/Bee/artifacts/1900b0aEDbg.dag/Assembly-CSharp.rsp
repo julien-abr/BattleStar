@@ -927,6 +927,7 @@
 "Assets/Launcher/ControllerButton.cs"
 "Assets/Launcher/Launcher.cs"
 "Assets/Launcher/LevelButton.cs"
+"Assets/Teams/BattleStar/BattleStarController.cs"
 "Assets/Teams/ExampleTeam/ExampleController.cs"
 -langversion:9.0
 
